@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+    color: pink;
+    background-color: pink;
+}
